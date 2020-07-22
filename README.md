@@ -63,7 +63,7 @@ Let us now run all the functionalities one by one and test for some real time ca
 Microsoft invented new Healthcare Bot service which is especially designed for answering queries of public in this COVID-19 pandemic situation. Microsoft worked with the Centers for Disease Control and Prevention for inculcating this new bot service as a self-screening tool for people who are facing the ambiguity of whether they need treatment for COVID-19 or not.
 Among all the Microsoft users, Healthcare Bot service is now handling more than 1 million messages per day approximately from the public concerned about COVID-19 infections.
 
-#### Other impacts are
+#### Other impacts are below:
 • Chatbot designed assists the user to answer a query on a particular subject.
 
 • It automatically reduces the manual botheration and speeds up the work.
